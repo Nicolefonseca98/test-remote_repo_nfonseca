@@ -3,6 +3,7 @@ package com.amena.util;
 import javax.swing.JOptionPane;
 
 public class Util{
+	//Este método captura n números y determina el promedio.
 	public static float promedio(){
 		int i = 0;
 		float promedioNotas, suma = 0;
